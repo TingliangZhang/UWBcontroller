@@ -23,5 +23,5 @@ Adobe官方提供的模板：https://www.adobe.com/products/xd/features/ui-kits.
 
 Windows上字体问题解决：需要下载苹果的一些字体文件：https://developer.apple.com/fonts/
 
-
+也是需要用7zip层层解压，最后把Fonts里面的拖动到字体里面的拖动以安装。
 
