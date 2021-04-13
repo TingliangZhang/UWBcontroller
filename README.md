@@ -11,6 +11,8 @@ XD下载：https://cloud.189.cn/t/zeM3iemYviy2 访问码 k6cm
 
 天翼网盘登陆后，使用油猴脚本结合IDM高速下载：https://greasyfork.org/zh-CN/scripts/424022-%E9%9B%B7%E5%88%A9%E5%AD%90
 
+IDM下载：https://www.tenlonstudio.com/8487.html
+
 
 
 苹果官方设计资源：https://developer.apple.com/design/resources/
